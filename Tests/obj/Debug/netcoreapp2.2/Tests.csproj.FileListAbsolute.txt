@@ -1,0 +1,17 @@
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/Tests.deps.json
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/Tests.runtimeconfig.json
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/Tests.runtimeconfig.dev.json
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/Tests.dll
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/Tests.pdb
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/Calc.dll
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/bin/Debug/netcoreapp2.2/Calc.pdb
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/obj/Debug/netcoreapp2.2/Tests.csprojAssemblyReference.cache
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/obj/Debug/netcoreapp2.2/Tests.csproj.CoreCompileInputs.cache
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/obj/Debug/netcoreapp2.2/Tests.AssemblyInfoInputs.cache
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/obj/Debug/netcoreapp2.2/Tests.AssemblyInfo.cs
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/obj/Debug/netcoreapp2.2/Tests.csproj.CopyComplete
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/obj/Debug/netcoreapp2.2/Tests.dll
+/Users/elizavetamesherskaya/RiderProjects/Calc/Tests/obj/Debug/netcoreapp2.2/Tests.pdb

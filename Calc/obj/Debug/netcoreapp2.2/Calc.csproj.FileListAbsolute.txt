@@ -1,0 +1,11 @@
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/bin/Debug/netcoreapp2.2/Calc.deps.json
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/bin/Debug/netcoreapp2.2/Calc.runtimeconfig.json
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/bin/Debug/netcoreapp2.2/Calc.runtimeconfig.dev.json
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/bin/Debug/netcoreapp2.2/Calc.dll
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/bin/Debug/netcoreapp2.2/Calc.pdb
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/obj/Debug/netcoreapp2.2/Calc.csprojAssemblyReference.cache
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/obj/Debug/netcoreapp2.2/Calc.csproj.CoreCompileInputs.cache
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/obj/Debug/netcoreapp2.2/Calc.AssemblyInfoInputs.cache
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/obj/Debug/netcoreapp2.2/Calc.AssemblyInfo.cs
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/obj/Debug/netcoreapp2.2/Calc.dll
+/Users/elizavetamesherskaya/RiderProjects/Calc/Calc/obj/Debug/netcoreapp2.2/Calc.pdb
